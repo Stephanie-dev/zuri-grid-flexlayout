@@ -64,6 +64,23 @@ button:hover{
     color: rgb(25, 8, 134);
 }
 
+.flex{
+    font-size: 60px;
+}
+
+.flex:hover{
+    color: rgb(25, 8, 134);
+}
+
+.plus{
+    font-size: 60px;
+}
+
+.click{
+    color: orangered;
+    font-size: 30px;
+}
+
 .cars{
     display: flex;
     width: 70%;
