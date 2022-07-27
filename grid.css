@@ -25,13 +25,31 @@ a {
     color: black;
 }
 
-.index {
+.grid{
     font-size: 60px;
 }
 
-.index:hover {
-    color: orangered;
+.grid:hover{
+    color: rgb(25, 8, 134);
 }
+
+.flex{
+    font-size: 60px;
+}
+
+.flex:hover{
+    color: rgb(25, 8, 134);
+}
+
+.plus{
+    font-size: 60px;
+}
+
+.click{
+    color: rgb(17, 0, 255);
+    font-size: 30px;
+}
+
 
 .grid-template {
     display: grid;
